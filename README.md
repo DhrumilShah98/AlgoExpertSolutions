@@ -11,6 +11,7 @@ My solutions to coding interview questions on [AlgoExpert](https://www.algoexper
 
 ## Questions
 
-| Index | Question                                  | Difficulty | Category | Approach                              |
-| ----- | ----------------------------------------- | ---------- | -------- | ------------------------------------- |
-| 1     | [Two Number Sum](/Easy/two-number-sum.md) | 🟢         | Arrays   | Brute Force, Hash Table, Two Pointers |
+| Index | Question                                              | Difficulty | Category | Approach                              |
+| ----- | ----------------------------------------------------- | ---------- | -------- | ------------------------------------- |
+| 1     | [Two Number Sum](/Easy/two-number-sum.md)             | 🟢         | Arrays   | Brute Force, Hash Table, Two Pointers |
+| 2     | [Validate Subsequence](/Easy/validate-subsequence.md) | 🟢         | Arrays   | Array Single Pass                     |
