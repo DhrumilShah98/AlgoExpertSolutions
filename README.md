@@ -21,4 +21,4 @@ My solutions to coding interview questions on [AlgoExpert](https://www.algoexper
 | 6     | [Selection Sort](/Easy/selection-sort.md)                                        | 🟢         | Sorting      | Brute Force (Two for loops)                      |
 | 7     | [Remove Duplicates From Linked List](/Easy/remove-duplicates-from-linkedlist.md) | 🟢         | Linked Lists | LinkedList Single Pass                           |
 | 8     | [Palindrome Check](/Easy/palindrome-check.md)                                    | 🟢         | String       | Brute Force, Recursion, Two Pointer Iterative    |
-| 8     | [Nth Fibonacci](/Easy/nth-fibonacci.md)                                          | 🟢         | Recursion    | Recursion, Recursion with Memoization, Iterative |
+| 9     | [Nth Fibonacci](/Easy/nth-fibonacci.md)                                          | 🟢         | Recursion    | Recursion, Recursion with Memoization, Iterative |
