@@ -24,3 +24,4 @@ My solutions to coding interview questions on [AlgoExpert](https://www.algoexper
 | 9     | [Nth Fibonacci](/Easy/nth-fibonacci.md)                                          | 🟢         | Recursion    | Recursive, Recursive with Memoization, Iterative |
 | 10    | [Binary Search](/Easy/binary-search.md)                                          | 🟢         | Searching    | Recursive, Iterative                             |
 | 11    | [Depth-first Search](/Easy/depth-first-search.md)                                | 🟢         | Graphs       | Recursive                                        |
+| 12    | [Caesar Cipher Encryptor](/Easy/caesar-cipher-encryptor.md)                      | 🟢         | String       | Iterative                                        |
