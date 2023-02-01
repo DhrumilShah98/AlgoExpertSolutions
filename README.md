@@ -26,3 +26,4 @@ My solutions to coding interview questions on [AlgoExpert](https://www.algoexper
 | 11    | [Depth-first Search](/Easy/depth-first-search.md)                                | 🟢         | Graphs       | Recursive                                        |
 | 12    | [Caesar Cipher Encryptor](/Easy/caesar-cipher-encryptor.md)                      | 🟢         | String       | Iterative                                        |
 | 13    | [Tournament Winner](/Easy/tournament-winner.md)                                  | 🟢         | Arrays       | Single Pass with Hashtable                       |
+| 14    | [Branch Sums](/Easy/branch-sums.md)                                              | 🟢         | Graphs       | Recursive                                        |
