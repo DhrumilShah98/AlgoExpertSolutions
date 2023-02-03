@@ -28,3 +28,4 @@ My solutions to coding interview questions on [AlgoExpert](https://www.algoexper
 | 13    | [Tournament Winner](/Easy/tournament-winner.md)                                  | 🟢         | Arrays       | Single Pass with Hashtable                       |
 | 14    | [Branch Sums](/Easy/branch-sums.md)                                              | 🟢         | Graphs       | Recursive                                        |
 | 15    | [Node Depths](/Easy/node-depths.md)                                              | 🟢         | Graphs       | Recursive                                        |
+| 16    | [Find Three Largest Numbers](/Easy/find-three-largest-numbers.md)                | 🟢         | Arrays       | Iterative                                        |
